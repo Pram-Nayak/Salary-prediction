@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/web%20tech%20project/ds_salary_proj/mlruns/0/ce0d233867084160918d1e8ffde67d0f/artifacts
+end_time: 1729657671607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce0d233867084160918d1e8ffde67d0f
+run_name: languid-stoat-294
+run_uuid: ce0d233867084160918d1e8ffde67d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729657668563
+status: 3
+tags: []
+user_id: nayak

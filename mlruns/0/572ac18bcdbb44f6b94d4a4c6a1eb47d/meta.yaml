@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/web%20tech%20project/ds_salary_proj/mlruns/0/572ac18bcdbb44f6b94d4a4c6a1eb47d/artifacts
+end_time: 1729654566394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 572ac18bcdbb44f6b94d4a4c6a1eb47d
+run_name: nimble-hare-298
+run_uuid: 572ac18bcdbb44f6b94d4a4c6a1eb47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654563400
+status: 3
+tags: []
+user_id: nayak
