@@ -1,5 +1,5 @@
 import flask
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template
 import json
 from data_input import data_in
 import numpy as np
@@ -13,6 +13,10 @@ def load_models():
     return model
 
 app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
