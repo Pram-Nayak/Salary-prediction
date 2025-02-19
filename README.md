@@ -15,8 +15,7 @@ A machine learning model deployed with Flask API to predict data science salarie
   - Company Rating (0-5)
   - Years of Experience
   - Job Description Length
-  - Binary indicators for:
-    - Skills (Python, AWS, etc.)
+    - Skills 
     - Location
     - Company Type
     - Other job-related features
