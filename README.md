@@ -1,4 +1,4 @@
-#Salary Predictor
+# Salary Predictor
 
 ## Overview
 A machine learning model deployed with Flask API to predict data science salaries based on various job features. The model analyzes multiple factors including company rating, years of experience, and job-specific characteristics to estimate annual salaries.
